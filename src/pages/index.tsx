@@ -43,7 +43,7 @@ const projects = [
   {
     title: "InfiniteVPS",
     description: "A well designed Church website",
-    image: "/assets/church.webm",
+    image: "/assets/church1.webm",
     href: "https://www.dropbox.com/scl/fi/n4xbc8h7kn0sh4sm7prfx/1110-2.mp4?rlkey=2acdrxkxl698vdu0tig8xcnno&st=ge4mnllu&dl&raw=1",
   },
   {
