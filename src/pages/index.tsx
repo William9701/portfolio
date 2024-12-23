@@ -41,16 +41,16 @@ const projects = [
     href: "https://www.dropbox.com/scl/fi/9bc0tlhvxrnjnj5w15l6g/0921.mp4?rlkey=4pumg2iwo09hdcipjyrjh48y2&st=pl3y5wc9&raw=1",
   },
   {
+    title: "InfiniteVPS",
+    description: "A well designed Church website",
+    image: "/assets/church.webm",
+    href: "https://www.dropbox.com/scl/fi/n4xbc8h7kn0sh4sm7prfx/1110-2.mp4?rlkey=2acdrxkxl698vdu0tig8xcnno&st=ge4mnllu&dl&raw=1",
+  },
+  {
     title: "Unqueue",
     description: "E-commerce platform for selling digital products",
     image: "/assets/unqueue.webm",
     href: "/assets/unqueue.webm",
-  },
-  {
-    title: "InfiniteVPS",
-    description: "High performance VPS hosting solution",
-    image: "/assets/infinitevps.webm",
-    href: "/assets/infinitevps.webm",
   },
   
   {
