@@ -54,10 +54,10 @@ const projects = [
   },
   
   {
-    title: "Wrona",
-    description: "Robotics-focused technology company",
-    image: "/assets/wrona.jpeg",
-    href: "https://www.wrona.com/",
+    title: "InfiniteVPS",
+    description: "High performance VPS hosting solution",
+    image: "/assets/infinitevps.webm",
+    href: "#",
   },
   {
     title: "Ecomecrce paint website",
