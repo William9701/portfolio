@@ -49,7 +49,7 @@ const projects = [
   {
     title: "TranslateBot",
     description: "a video Connect platform",
-    image: "/assets/translate_bot.webm",
+    image: "/assets/0921.webm",
     href: "https://www.dropbox.com/scl/fi/9bc0tlhvxrnjnj5w15l6g/0921.mp4?rlkey=4pumg2iwo09hdcipjyrjh48y2&st=pl3y5wc9&raw=1",
   },
   {
@@ -60,8 +60,8 @@ const projects = [
   },
   {
     title: "This website",
-    description: "My personal website",
-    image: "/assets/portfolio.webm",
+    description: "A paint Hub website",
+    image: "/assets/paint.webm",
     href: "https://www.dropbox.com/scl/fi/y4d2eg1sgixz2ofdtyv7h/Video_20240406201507243_by_Filmigo.mp4?rlkey=5eeua3e67wg5gwhj5cdii4276&st=f7gb5blt&raw=1",
   },
   
@@ -192,9 +192,9 @@ export default function Home() {
               className="flex flex-row items-center space-x-1.5"
             >
               <span className={styles.pill}>python</span>
-              <span className={styles.pill}>javascript</span>
-              <span className={styles.pill}>next.js</span>          
+              <span className={styles.pill}>javascript</span>        
               <span className={styles.pill}>typescript</span>
+              <span className={styles.pill}>next.js</span>  
             </div>
             <div>
               <h1
@@ -227,7 +227,7 @@ export default function Home() {
               data-scroll-speed=".06"
               className="flex flex-row items-center space-x-1.5 pt-6"
             >
-              <Link href="obiwilliam818@gmail.com" passHref>
+              <Link href="https://linkedin.com/in/obi-william-29a2a2182" passHref>
                 <Button>
                   Get in touch <ChevronRight className="ml-1 h-4 w-4" />
                 </Button>
@@ -343,7 +343,7 @@ export default function Home() {
             <Link href={project.href} target="_blank" passHref>
               {project.image.endsWith(".webm") ? (
                 <video
-                  src={project.href}
+                  src={project.image}
                   autoPlay
                   loop
                   muted

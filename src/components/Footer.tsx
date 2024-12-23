@@ -44,7 +44,7 @@ export default function Footer() {
           </span>
         </span>
         <Link
-          href="obiwilliam818@gmail.com"
+          href="mailto:obiwilliam818@gmail.com"
           passHref
           className="text-xs text-muted-foreground hover:text-foreground"
         >
