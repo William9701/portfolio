@@ -35,6 +35,12 @@ const aboutStats = [
 
 const projects = [
   {
+    title: "Connect bot",
+    description: "a video Connect platform",
+    image: "/assets/0921.webm",
+    href: "https://www.dropbox.com/scl/fi/9bc0tlhvxrnjnj5w15l6g/0921.mp4?rlkey=4pumg2iwo09hdcipjyrjh48y2&st=pl3y5wc9&raw=1",
+  },
+  {
     title: "Unqueue",
     description: "E-commerce platform for selling digital products",
     image: "/assets/unqueue.webm",
@@ -46,12 +52,7 @@ const projects = [
     image: "/assets/infinitevps.webm",
     href: "/assets/infinitevps.webm",
   },
-  {
-    title: "TranslateBot",
-    description: "a video Connect platform",
-    image: "/assets/0921.webm",
-    href: "https://www.dropbox.com/scl/fi/9bc0tlhvxrnjnj5w15l6g/0921.mp4?rlkey=4pumg2iwo09hdcipjyrjh48y2&st=pl3y5wc9&raw=1",
-  },
+  
   {
     title: "Wrona",
     description: "Robotics-focused technology company",
@@ -59,7 +60,7 @@ const projects = [
     href: "https://www.wrona.com/",
   },
   {
-    title: "This website",
+    title: "Ecomecrce paint website",
     description: "A paint Hub website",
     image: "/assets/paint.webm",
     href: "https://www.dropbox.com/scl/fi/y4d2eg1sgixz2ofdtyv7h/Video_20240406201507243_by_Filmigo.mp4?rlkey=5eeua3e67wg5gwhj5cdii4276&st=f7gb5blt&raw=1",
