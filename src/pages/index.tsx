@@ -329,7 +329,7 @@ export default function Home() {
             </h2>
             <p className="mt-1.5 text-base tracking-tight text-muted-foreground xl:text-lg">
               I&apos;ve worked on a variety of projects, from small websites to
-              large-scale web applications. Here are some of my favorites:
+              large-scale web applications. Here ar some of my favorites:
             </p>
 
             {/* Carousel */}
